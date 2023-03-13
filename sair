@@ -1,0 +1,29 @@
+[33mcommit 75afb0a28027172da2aaff6e1f0a9510c4791b97[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Uilson Menger <umenger@hotmail.com>
+Date:   Fri Mar 10 14:37:34 2023 -0300
+
+    colocando acentuação no arquivo2.txt
+
+ arquivo.txt | Bin [31m34[m -> [32m34[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 45e9e14aaf8609cb78cceabde0bd5ae5188d0a0e[m
+Author: Uilson Menger <umenger@hotmail.com>
+Date:   Fri Mar 10 14:33:01 2023 -0300
+
+    alterando o conteudo de arquivo.txt
+
+ arquivo.txt | Bin [31m24[m -> [32m34[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 710e0183f462443a990eba47e4a9e5b840bfb214[m
+Author: Uilson Menger <umenger@hotmail.com>
+Date:   Fri Mar 10 14:23:46 2023 -0300
+
+    inclusão de novos arquivos
+    
+    Inclusão dos arquivos: arquivo.txt e arquivo2.txt
+
+ arquivo.txt  | Bin [31m0[m -> [32m24[m bytes
+ arquivo2.txt | Bin [31m0[m -> [32m26[m bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
